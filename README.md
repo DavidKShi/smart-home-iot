@@ -235,18 +235,6 @@ System ready...
 
 ---
 
-# Future Improvements
-
-- Add MQTT support
-- Add OLED display integration
-- Implement Firebase or cloud database support
-- Add mobile app integration
-- Support multiple rooms/sensors
-- Add relay modules for appliance control
-- Add email/SMS alerts
-
----
-
 # License
 
 This project is licensed under the MIT License.
